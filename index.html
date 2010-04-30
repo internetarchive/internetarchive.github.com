@@ -15,27 +15,24 @@ title: Internet Archive Developer Blog
       Internet Archive Developer Blog
     </div>
     
-    <h1>Recent Posts</h1>
 
-    {% for post in site.posts limit:5 %}
-    <div class="post">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.content }}
-      <br/>
-      <em>Posted on {{ post.date | date_to_long_string }}.</em>
-    </div>
-    {% endfor %}
-
-    
-<br/><br/>
-
-    <h1>All Posts</h1>
+    <h1>Blog Posts</h1>
     <ul class="posts">
       {% for post in site.posts %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
     
+    <h1>Open Source Projects</h1>
+    <ul>
+      <li><a href="http://openlibrary.org">Open Library</a></li>
+      <li><a href="http://openlibrary.org/dev/docs/bookreader">Internet Archive BookReader</a></li>
+      <li><a href="http://sourceforge.net/projects/archive-crawler/">Heritrix: Internet Archive Web Crawler</a></li>
+      <li><a href="http://sourceforge.net/projects/archive-access/">Web Archive Access Utilities</a></li>
+      <li><a href="http://github.com/internetarchive/epub">EPUB and Daisy generation utilities</a></li>
+      <li>More projects on <a href="http://github.com/internetarchive/">github</a></li>
+    </ul>
+      
     <h1>Contact</h1>
 <p> (info@archive.org)
 <br/>      </p>

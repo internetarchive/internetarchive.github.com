@@ -18,7 +18,7 @@ We have three goals for Daniel's internship:
 
 Day 1 was very successful! We started on the basics of Unix development:
 
-* Set up desk
+* Set up desk with *keyboard tray*
 * Set up Ubuntu workstation and get familiar with linux
 * Set up archive.org email account
 * Set up unix account!

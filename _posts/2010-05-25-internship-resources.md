@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Resources for the IA Intern
+title: Useful Resources for the IA Intern - Day 2
 categories:
 - intern
 - bookserver

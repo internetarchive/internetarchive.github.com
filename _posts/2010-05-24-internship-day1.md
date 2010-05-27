@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer 2010 BookServer Internship
+title: Summer 2010 BookServer Internship - Day 1
 categories:
 - intern
 - bookserver

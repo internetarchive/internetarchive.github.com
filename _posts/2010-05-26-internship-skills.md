@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship Goals - Skills to teach
+title: Internship Goals - Skills to teach - Day #3
 categories:
 - intern
 - bookserver
@@ -22,8 +22,11 @@ In the course of meeting these goals, we hope to teach the following skills:
     * **python**
     * **git**
     * javascript
+    * databases
     * software testing
     * emacs and other unix text editors
     * ssh
 
-    
+Daniel continued his impressive streak of productivity into Day #3, and has
+now [completed 24 lessons](http://github.com/dmontalvo/learningpython/) from
+Learning Python The Hard Way. Today, we also had lunch on the beach!

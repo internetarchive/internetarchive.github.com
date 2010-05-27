@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship Goals - Skills to teach - Day #3
+title: Internship Goals - Skills to teach - Day 3
 categories:
 - intern
 - bookserver

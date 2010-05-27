@@ -22,11 +22,13 @@ In the course of meeting these goals, we hope to teach the following skills:
     * **python**
     * **git**
     * javascript
-    * databases
+    * databases and sql
     * software testing
     * emacs and other unix text editors
     * ssh
     * wget
+    * sqlite
+    * cron
 
 Daniel continued his impressive streak of productivity into Day #3, and has
 now [completed 24 lessons](http://github.com/dmontalvo/learningpython/) from

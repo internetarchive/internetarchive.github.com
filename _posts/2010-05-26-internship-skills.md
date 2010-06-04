@@ -29,6 +29,8 @@ In the course of meeting these goals, we hope to teach the following skills:
     * wget
     * sqlite
     * cron
+    * regular expressions
+    * HTML, markdown, jekyll
 
 Daniel continued his impressive streak of productivity into Day #3, and has
 now [completed 24 lessons](http://github.com/dmontalvo/learningpython/) from
